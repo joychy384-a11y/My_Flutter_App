@@ -1,0 +1,10 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  http: ^1.6.0
+  shared_preferences:
+  logger: ^2.6.2
+  flutter_svg:
+  image_picker: any
+  pin_code_fields: ^8.0.1
